@@ -1,0 +1,4 @@
+bleach
+lxml
+requests
+sopel>=7,<8
